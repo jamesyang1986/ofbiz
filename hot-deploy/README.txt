@@ -12,4 +12,6 @@ If you need a specific loading order of these components then you need to disabl
 by creating a component-load.xml file in the hot-deploy directory and use the load-component tag to load 
 your components in the order you want (just use the component-load.xml file in the application folder as a template).
 
+test
+
 
